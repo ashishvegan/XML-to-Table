@@ -68,7 +68,7 @@
         }
 
         // Fetch the XML file and display the table
-        fetch('database.xml')
+        fetch('large.xml')
             .then(response => response.text())
             .then(xmlData => {
                 var parsedData = xmlToJsObject(xmlData);

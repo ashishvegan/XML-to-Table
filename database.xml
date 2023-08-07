@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<nv-table>
+    <nv-row>
+        <nv-sr>1</nv-sr><nv-name>Shubham</nv-name><nv-age>25</nv-age><nv-city>Texas, US</nv-city>
+    </nv-row>
+    
+    <nv-row>
+        <nv-sr>2</nv-sr><nv-name>Yash</nv-name><nv-age>30</nv-age><nv-city>Boston, US</nv-city>
+    </nv-row>
+    
+    <nv-row>
+        <nv-sr>3</nv-sr><nv-name>Sunil</nv-name><nv-age>28</nv-age><nv-city>Pensylvania, US</nv-city>
+    </nv-row>
+</nv-table>
